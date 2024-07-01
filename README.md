@@ -13,11 +13,11 @@ This project is a movie recommendation system built using data from TMDB (The Mo
 The dataset consists of information on 5000 movies from TMDB, including titles, genres, overview, cast, crew, and more.
 
 ## Requirements:-
-  *Python 3.x
-  *NumPy
-  *Pandas
-  *Scikit-learn
-  *NLTK (Natural Language Toolkit)
+  * Python 3.x
+  * NumPy
+  * Pandas
+  * Scikit-learn
+  * NLTK (Natural Language Toolkit)
 
 ## Results:-
 Given the movie title "The Dark Knight", the system will recommend movies with similar characteristics based on the cosine similarity of their feature vectors.
